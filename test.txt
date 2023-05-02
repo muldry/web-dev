@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is my another commit!
+=======
+This is again a commit!
+>>>>>>> feature
 
 and here we go already with comment number2
